@@ -1,0 +1,10 @@
+Package: bootstrap-cmds
+Version: 121-1
+Architecture: iphoneos-arm
+Maintainer: Ethan Blair
+Section: Development
+Priority: optional
+Description: Mach interface and stub generator
+Name: Bootstrap Commands
+Tag: purpose::console, role::developer
+Installed-Size: 272
